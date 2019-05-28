@@ -13,7 +13,7 @@ Palestras ministradas
 
 * [Webscranping com PHP e Laravel](https://github.com/PHP-RN/startup-day/blob/master/slides/2019/webscranping-com-php-e-laravel.pdf) (Marlon Saraiva)
 
-* [Xdebug: seus problemas acabaram](#) (Vitor Mattos)
+* [Xdebug: seus problemas acabaram](https://www.slideshare.net/vitormattosrj/xdebug-seus-problemas-acabaram-tdc-floripa-2017) (Vitor Mattos)
 
 * [Minicurso de Introdução ao PHP](http://slides.com/vitormattos/php-primeiros-passos#/) (Vitor Mattos)
 
